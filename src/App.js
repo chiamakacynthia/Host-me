@@ -1,13 +1,6 @@
-
-import './App.css';
-import HomeScreen from "./component/HomeScreen"
+import "./App.css";
 
 function App() {
-  return (
-    <div>
-    
-    </div>
-  );
+  return <div>cfvgjjhg</div>;
 }
-<HomeScreen />
 export default App;
